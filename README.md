@@ -101,3 +101,53 @@ df2
 
 ### Output
 ## Data.csv
+* Initial Data:
+  
+ ![1](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/15798873-5764-4317-882c-427cb3930e36)
+* Unique Data:
+
+  ![2](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/ce02965e-80c4-41f3-8eb5-bd9848423b79)
+* Original Encoder:
+
+![3](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/ce13306a-f489-42bc-8744-38a7a8607257)
+![4](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/2fbd98c2-bd25-47cc-8a08-09422a5d8a3c)
+* Label Encoder:
+
+![5](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/1a1cf3b4-56f4-4aad-999b-e9ef2f6ee589)
+* Binary Encoder:
+
+![6](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/7a5732ab-58f1-43ac-91cb-337f8a78854b) ![7](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/a8cc36ca-97fa-4501-8f9a-5ebe88bed824)
+
+## EncoderData.csv:
+
+* Initial Data:
+
+![8](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/b3982042-2a73-43c6-9903-1805e73e531d)
+* Unique Data:
+  
+![9](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/18b50668-2dba-4e70-95e4-1e24f2e2440c)
+* Original Encoder:
+
+![10](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/cf27464f-0783-49ee-a4e5-3642354e0ac4)  
+* Label Encoder:
+
+ ![11](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/2c4bc53f-062b-401c-9a4b-c6a3b5651f5b)
+* Binary Encoder:
+  
+ ![12](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/0e94d9c3-bbf8-43bf-baa5-e78697c6a61e)
+![13](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/937a769a-28d9-4ae8-b9e0-f385178643f3)
+
+## BMI.csv:
+*Initial Data:
+
+![14](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/d07a81da-dc2e-471d-b70d-9795708a46f1)
+* Binary Encoder:
+
+ ![15](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/f3a48547-fa2f-4e70-8e25-2aa973e1cf07)
+* Dummies:
+  
+![16](https://github.com/Adhithyaram29D/ODD2023-Datascience-Ex-05/assets/119393540/a24303cd-4e9b-4979-a9c6-ef0f2b693161)
+
+## Result:
+Thus the Feature Generation and Feature Scaling process is applied to the given data set.
+  
